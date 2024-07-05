@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineer;HTML5%20|+CSS3%20|+Javascript%20|;ReactNative%20|ReactJS%20|%20RestAPI%20;Software%20Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Hello, I am Ahmet, a computer engineering student at Bursa Technical University. I enjoy coding, conducting research, and embracing innovations. I am an enthusiastic and social person who loves accepting new challenges and acquiring new skills. I enjoy meeting new people, sharing ideas, and spreading knowledge and positive energy.</h4>
+<h4 align="center">Hello, I'm Ahmet, a Computer Engineering graduate from Bursa Technical University. I enjoy writing code, doing research and embracing innovations. I am an enthusiastic and sociable person who likes to accept new challenges and acquire new skills. I enjoy meeting new people, sharing my ideas, spreading knowledge and positive energy.</h4>
 <br>
 
 
